@@ -1,1 +1,1 @@
-Open-CV
+Open-CV fundamental
